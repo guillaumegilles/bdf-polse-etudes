@@ -6,4 +6,4 @@
 
 ## Troisième email : publication du commerce de détail
 
-- 
+- email-template-publication-com-detail.html
